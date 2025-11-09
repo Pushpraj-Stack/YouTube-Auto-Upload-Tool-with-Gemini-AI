@@ -40,5 +40,5 @@ An intelligent automation tool that:
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/Pushpraj-Stack/youtube-ai-upload.git
+git clone [https://github.com/Pushpraj-Stack/youtube-ai-upload.git](https://github.com/Pushpraj-Stack/YouTube-Auto-Upload-Tool-with-Gemini-AI.git)
 cd youtube-ai-upload
