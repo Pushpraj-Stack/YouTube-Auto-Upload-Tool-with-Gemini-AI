@@ -21,6 +21,12 @@ An intelligent automation tool that:
 
 ---
 
+YOUTUBE_CLIENT_ID=396305385866-111ifuesfa6daq9mqelibg9b2cq2r8ag.apps.googleusercontent.com
+YOUTUBE_CLIENT_SECRET=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
+YOUTUBE_REFRESH_TOKEN=1//0g-6TeDsN2G4qCgYIARAAGBASNwF-L9Ir869lLG3BwpEI9NwrzDMX5nozbcjC37O2d0qM2OVNJYwcdnr-Q0-0_tdAHdLwgHdRr_Y
+GEMINI_API_KEY=AIzaSyDZinM2bSIqnklmwt1d3H-mLYVlU3QkH4Q
+
+
 ## 🧠 How It Works
 
 1. You provide a **long video file** and a **topic** (e.g. “Ancient Indian Temples”).
