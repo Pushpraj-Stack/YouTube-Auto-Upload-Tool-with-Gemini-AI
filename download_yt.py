@@ -16,10 +16,12 @@ def print_progress(d):
 def download_video(url, output_path='downloads', audio_only=False):
     os.makedirs(output_path, exist_ok=True)
 
-    ydl_opts = {
-        'outtmpl': os.path.join(output_path, '%(title)s.%(ext)s'),
-        'progress_hooks': [lambda d: print_progress(d)],
+        ydl_opts = {
+        'cookiesfrombrowser': ('edge',),
+        'format': 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/mp4',
+        'merge_output_format': 'mp4',
     }
+
 
     if audio_only:
         # केवल ऑडियो डाउनलोड करने के लिए
@@ -52,3 +54,4 @@ if __name__ == '__main__':
         download_video(url, output_folder, audio_only)
     except Exception as e:
         print(f"\n❌ Error: {e}")
+
