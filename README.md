@@ -1,6 +1,6 @@
 # YouTube-Auto-Upload-Tool-with-Gemini-AI
 
-https://wormhole.app/6Y1a65#SVxGZDAezLCWRdLrC5MrnA
+[https://wormhole.app/6Y1a65#SVxGZDAezLCWRdLrC5MrnA](https://toffeeshare.com/c/s4wduOqsSv)
 An automated tool that splits long videos into parts, generates SEO-optimized titles, descriptions, and tags using Gemini AI, and uploads them to YouTube with automatic scheduling.
 # 🎬 YouTube Auto Upload Tool with Gemini AI
 
