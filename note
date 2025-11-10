@@ -1,0 +1,2 @@
+edge
+yt-dlp --cookies-from-browser edge "https://www.youtube.com/watch?v=-YlmnPh-6rE"
